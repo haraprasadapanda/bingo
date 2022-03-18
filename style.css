@@ -1,9 +1,8 @@
 /* Typography */
 body {
     color:#E53935 ;
-    background-color:#145A32;
-    background-image: url(https://static.toiimg.com/photo/msid-74549243/74549243.jpg?1570638) no-repeat center fixed;
-    background-size: cover;
+    background-color:linear-gradient(to bottom right, #145A32, yellow);
+
      }
 #snow {
     position: fixed;
