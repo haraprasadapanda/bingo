@@ -438,7 +438,7 @@ var bingoInstance = new Bingo(bingoBoardElement, speechInstance);
 bingoInstance.run();
 
 //code for snow
-document.addEventListener('DOMContentLoaded', function(){
+/*document.addEventListener('DOMContentLoaded', function(){
         var script = document.createElement('script');
         script.src = 'https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js';
         script.onload = function(){
@@ -501,4 +501,4 @@ document.addEventListener('DOMContentLoaded', function(){
             });
         }
         document.head.append(script);
-    });
+    });*/
